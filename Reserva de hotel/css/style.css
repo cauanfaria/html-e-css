@@ -1,0 +1,81 @@
+html{
+    background: #fa4251;
+   
+}
+.box{
+    width: 1000px;
+    height: 500px;
+    background: #ffffff;
+    margin-left: 25%;
+    margin-top: 15%;
+    border-radius: 50px; 
+}
+
+.nome{
+    width: 500px;
+    height:30px;
+    margin-top: 14%;
+    margin-left: -25%;
+    
+   
+}
+.titulo{
+    margin-top: 10%;
+    margin-left: 10%;
+    
+    
+}
+
+.bg{
+    background-image:url(imagemA.jpg);
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 500px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius:50px ;
+    background-position:center;
+    
+}
+.lado{
+    display: flex;
+}
+
+.qtd{
+    width: 250px;
+    height:30px;
+    margin-top: 20%;
+    margin-left: -50.5%;
+}
+.genero{
+    width: 240px;
+    height:35px;
+    margin-top: 20%;
+    margin-left: 1%;
+}
+.acomodacao{
+    width: 255px;
+    height:35px;
+    margin-top: 26%;
+    margin-left:-50.5%;
+}
+.vip{
+    width: 240px;
+    height:29px;
+    margin-top: 26%;
+    margin-left: 1%;
+}
+
+.btn{
+    height: 30px;
+    width: 80px;
+    color: white;
+    background:black;
+    border-radius: 10px;
+    text-align:center;
+    margin-top: 34%;
+    margin-left:-52%;
+    cursor: pointer;
+}
+.reservar{
+    margin-top: 5%;
+}

@@ -1,0 +1,144 @@
+html{
+    background: #cccccc;
+    
+}
+
+.whiteboxmiddle{
+    width: 600px;
+    height: 750px;
+    background: #ffffff;
+    border-radius: 50px;
+    margin-top: 8%;
+    margin-left: 33%;
+}
+
+.whiteboxleft{
+    width: 450px;
+    height: 550px;
+    background: #ffffff;
+    border-radius: 50px;
+    margin-left:-150%;
+    margin-top:-140%;
+}
+.whiteboxright{
+    width: 450px;
+    height: 550px;
+    background: #ffffff;
+    border-radius: 50px;
+    margin-left:280% ;
+    margin-top:-95%;
+}
+.lado{
+    display: inline-block;
+    
+}
+.blackbox{
+    width: 500px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    margin-left: 10%;
+    text-align: center;
+}
+.padrão{
+    color: #263568;
+    font-size:100px;
+    margin-left: 32%;
+    
+}
+.valor{
+    font-size:40px ;
+}
+
+.bluebox{
+    width: 425px;
+    height: 400px;
+    background-color: #263568;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin-left: 18%;
+    color: white;
+    font-size: 30px;
+    margin-top: -6%;
+}
+
+.buy{
+    
+    background-color: #263568;
+    width: 500px;
+    height: 90px;
+    border-radius: 50px;
+    margin-top: 30%;
+    text-align: center;
+    margin-left: -8%;
+    font-size: 60px;
+    cursor: pointer;
+}
+.basico{
+    font-size:70px;
+    margin-left: 29%;
+    color:#db7617;
+}
+.blackbox2{
+    width: 375px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    margin-left: 10%;
+    text-align: center;
+}
+.orangebox{
+    width: 300px;
+    height: 300px;
+    background-color: #db7617;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin-left: 18%;
+    color: white;
+    font-size: 25px;
+    margin-top: -6%;
+}
+.buy2{
+    
+    background-color: #db7617;
+    width: 350px;
+    height: 70px;
+    border-radius: 50px;
+    margin-top: 30%;
+    text-align: center;
+    margin-left: -8%;
+    font-size: 40px;
+    cursor: pointer;
+
+}
+.premium{
+    font-size:70px;
+    margin-left: 25%;
+    color:#353635;
+}
+.graybox{
+    width: 300px;
+    height: 300px;
+    background-color: #353635;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    margin-left: 18%;
+    color: white;
+    font-size: 25px;
+    margin-top: -6%;
+}
+.buy3{
+    
+    background-color:#353635;
+    width: 350px;
+    height: 70px;
+    border-radius: 50px;
+    margin-top: 30%;
+    text-align: center;
+    margin-left: -8%;
+    font-size: 40px;
+    cursor: pointer;
+
+}

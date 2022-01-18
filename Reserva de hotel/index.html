@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>Reserva</title>
+</head>
+
+<body class="box">
+   <div class=lado>
+        <div class=bg></div>
+        <h2 class="titulo">Informações da reserva</h2>
+        <input type="text" name="nomeCompleto" placeholder="Nome Completo" class="nome">
+        <input type="text" name="qtdPessoas" placeholder="Qtd de Pessoas" class=qtd> 
+        <select  name="genero" placeholder="Gênero" class=genero>
+            <option disabled selected>Genero</option>
+           <option value="F">Feminino</option>
+           <option value="M">Masculino</option>
+           <option value="O">Outros</option>
+       </select>
+
+        <select  name="acomodacao" placeholder="Acomodação" class=acomodacao>
+            <option disabled selected>Acomodação</option>
+            <option value="1">Tipo 1</option>
+            <option value="2">Tipo 2</option>
+            <option value="3">Tipo 3</option>
+        </select>  
+
+        <input type="text" name="codigoClienteVip" placeholder="Código de cliente VIP" class="vip">
+        
+        <div class="btn"><div class="reservar">Reservar</div></div>
+    
+    </div>
+    
+</body>
+</html>
